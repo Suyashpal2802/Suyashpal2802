@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Suyashpal2802
-- 👀 I’m interested in ...app development
-- 🌱 I’m currently learning ...kotlin
-- 💞️ I’m looking to collaborate on ...projects based on app-dev
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...email-pal1805suyash@gmail.com
 
 <!---
